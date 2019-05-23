@@ -8,7 +8,7 @@ func Hello(name string) (greeting string) {
 	if name == "Jenkins" {
 		return "Hello, Jenkins X!"
 	}
-	return "Hello, " + name + "!"
+	return "Hello, " + name + "!!"
 }
 
 func main() {
